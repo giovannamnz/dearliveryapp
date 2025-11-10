@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210717632685",
+    "project_id": "dearliveryapp",
+    "storage_bucket": "dearliveryapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210717632685:android:c86c179a7a22f5f655be24",
+        "android_client_info": {
+          "package_name": "com.example.dear_livery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7X0xme2R1prlqPXOrffV5fnbi_fjmX0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
