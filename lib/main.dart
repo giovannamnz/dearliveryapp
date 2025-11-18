@@ -1,6 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:dear_livery_app/screens/login_page.dart'; // Verifique se o caminho está correto
+import 'package:dear_livery/screens/login_page.dart'; // Verifique se o caminho está correto
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
